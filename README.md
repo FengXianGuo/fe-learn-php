@@ -24,4 +24,5 @@
         - [4.html中写入php](./books/4.html中写入php.md)
     - php语法
         - [5.变量](./books/5.变量.md)
+        - [6.运算符](./books/6.运算符.md)
 
