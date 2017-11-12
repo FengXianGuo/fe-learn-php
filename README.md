@@ -17,7 +17,11 @@
 ## 二，目录
 
 - PHP基础篇
-    - [1.服务器简介](./books/1.服务器简介.md)
-    - [2.php简介](./books/2.php简介.md)
-    - [3.php环境](./books/3.php环境.md)
+    - 准备工作
+        - [1.服务器简介](./books/1.服务器简介.md)
+        - [2.php简介](./books/2.php简介.md)
+        - [3.php环境](./books/3.php环境.md)
+        - [4.html中写入php](./books/3.html中写入php.md)
+    - php语法
+        - [5.变量](./books/5.变量.md)
 
