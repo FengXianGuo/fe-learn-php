@@ -17,5 +17,5 @@
 ## 二，目录
 
 - PHP基础篇
-    - [1.php简介](./books/1.php简介)
+    - [1.php简介](./books/1.php简介.md)
 
