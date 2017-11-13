@@ -33,5 +33,7 @@
         - [12.$_GET](./books/12.$_GET.md)
         - [13.$_POST](./books/13.$_POST.md)
         - [14.$_session](./books/14.$_session.md)
+        - [15.for、while循环](./books/15.for、while循环.md)
+        - [16.数组](./books/16.数组.md)
         
 
