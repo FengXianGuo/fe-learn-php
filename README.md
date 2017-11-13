@@ -35,5 +35,6 @@
         - [14.$_session](./books/14.$_session.md)
         - [15.for、while循环](./books/15.for、while循环.md)
         - [16.数组](./books/16.数组.md)
+        - [17.遍历数组foreach](./books/17.遍历数组foreach.md)
         
 
