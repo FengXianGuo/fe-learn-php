@@ -30,4 +30,8 @@
         - [9.流程控制符](./books/9.流程控制符.md)
         - [10.引入外部文件](./books/10.引入外部文件.md)
         - [11.预定义变量](./books/11.预定义变量.md)
+        - [12.$_GET](./books/12.$_GET.md)
+        - [13.$_POST](./books/13.$_POST.md)
+        - [14.$_session](./books/14.$_session.md)
+        
 
