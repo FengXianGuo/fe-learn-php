@@ -36,5 +36,7 @@
         - [15.for、while循环](./books/15.for、while循环.md)
         - [16.数组](./books/16.数组.md)
         - [17.遍历数组foreach](./books/17.遍历数组foreach.md)
+        - [18.多维数组](./books/18.多维数组.md)
+        - [19.foreach在html中使用](./books/19.foreach在html中使用.md)
         
 
